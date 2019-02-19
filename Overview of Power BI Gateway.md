@@ -10,6 +10,5 @@
    * 8 GB Memory
    * 64-bit version of Windows 2012 R2 (or later)
 # How the gateway works
-![Image of gateway]
-(https://docs.microsoft.com/en-us/power-bi/includes/media/gateway-onprem-how-it-works-include/on-prem-data-gateway-how-it-works.png)
+![Image of gateway](https://docs.microsoft.com/en-us/power-bi/includes/media/gateway-onprem-how-it-works-include/on-prem-data-gateway-how-it-works.png)
 
