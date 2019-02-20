@@ -35,11 +35,13 @@ Overview of Power BI Gateway 将从以下5篇文章中汲取思路：
 * 配置新网关（本地数据网关&个人模式网关）
 * Tips：
     - 在云中存储加密凭据
-    <font color=00FFFF>- 登录账户
+    <font color=00FFFF>
+    - 登录账户
     - Windows 服务账户
     - 强制HTTPS与Azure服务总线通信
     - 对TLS 1.2 的支持
-* 如何重启网关</font>
+* 如何重启网关
+    </font>
 * 网关的工作原理
     - 限制和注意事项
     - 租户级别管理
@@ -61,12 +63,14 @@ Overview of Power BI Gateway 将从以下5篇文章中汲取思路：
 * 现在，这就网关起作用的地方
 * 接下来该怎么做
 * 这时事情可能会出错
-* <font color=#FF0000>登录帐户 (不用怀疑，就是第四个提到的一模一样的内容，微软就是这么任性，文档不是一般的烂)</font>
-* <font color=#FF0000>Windows 服务帐户</font>
-* <font color=#FF0000>附件二</font>
-* <font color=#FF0000>强制HTTPS与Azure服务总线通信</font>
-* <font color=#FF0000>对TLS 1.2 的支持</font>
-* <font color=#FF0000>如何重启网关</font>
+<font color=#FF0000>
+* 登录帐户 (不用怀疑，就是第四个提到的一模一样的内容，微软就是这么任性，文档不是一般的烂)
+* Windows 服务帐户
+* 附件二
+* 强制HTTPS与Azure服务总线通信
+* 对TLS 1.2 的支持
+* 如何重启网关
+</font>
 
 
 
