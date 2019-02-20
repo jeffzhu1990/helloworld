@@ -20,3 +20,5 @@
 ## 租户级别管理
 * 租户管理员可以查看租户中安装的所有本地数据网关并对其进行管理。 此功能目前以公共预览版提供。 有关详细信息，请参阅 [Power 平台管理中心]()文档。<font color=#FF0000>目前为止该功能为国际版使用，国内支持遥遥无期.</font>
 * 或者，如果你是租户管理员，建议你请求组织中的用户将你添加为他们所安装的每个网关的管理员。 这样你便可以通过“网关设置”页或通过 [PowerShell 命令]()管理组织中的所有网关
+## 启用出站 Azure 连接
+本地数据网关依赖 Azure 服务总线提供云连接，并相应地建立到其关联 Azure 区域的出站连接。 默认情况下，这是你的 Power BI 租户的位置。 查看我的 [Power BI 租户位于何处?](https://powerbi.microsoft.com/documentation/powerbi-admin-where-is-my-tenant-located/) 如果防火墙阻止出站连接，则必须配置防火墙，使其允许从本地数据网关到其关联 Azure 区域的出站连接。 请参阅 [Microsoft Azure 数据中心 IP 范围](https://www.microsoft.com/download/details.aspx?id=41653)详细了解每个 Azure 数据中心 IP 地址范围。
