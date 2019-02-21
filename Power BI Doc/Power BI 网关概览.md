@@ -7,7 +7,7 @@
 ![Image of gateway](https://docs.microsoft.com/en-us/power-bi/includes/media/gateway-onprem-how-it-works-include/on-prem-data-gateway-how-it-works.png)
 让我们首先看一下当用户与连接到本地数据源的元素交互时，会发生什么情况。
 
-1. 云服务将创建查询以及本地数据源的加密凭据，并将其发送到队列中以让网关进行处理。
+1. 网关云服务将创建查询以及本地数据源的加密凭据，并将其发送到队列中以让网关进行处理。
 2. 网关云服务将分析该查询，并将请求推送到 [Azure 服务总线](https://docs.microsoft.com/zh-cn/azure/service-bus-messaging/service-bus-messaging-overview/)。
 3. 本地数据网关将为挂起的请求轮询 Azure 服务总线。
 4. 网关获取查询、解密凭据并使用这些凭据连接到数据源。
