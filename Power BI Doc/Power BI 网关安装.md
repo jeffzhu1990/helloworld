@@ -1,9 +1,9 @@
 # Power BI 网关安装
 ## 先决条件
-### Minimum Requirements 最低要求
+#### Minimum Requirements 最低要求
    * .NET Framework 4.6
    * 64-bit version of Windows 7 / Windows Server 2008 R2 (or later)
-### Recommended 推荐配置
+#### Recommended 推荐配置
    * 8 Core CPU
    * 8 GB Memory
    * 64-bit version of Windows 2012 R2 (or later)
