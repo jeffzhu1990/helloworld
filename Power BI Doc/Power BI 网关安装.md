@@ -14,10 +14,11 @@
 * **方法二：在Power BI官网下载**
     * [英文](https://powerbi.microsoft.com/en-us/gateway/)
 ![](https://github.com/jeffzhu1990/helloworld/blob/master/images/Homepage-English.png)
-
     * [中文](https://powerbi.microsoft.com/en-us/gateway/)
 ![](https://github.com/jeffzhu1990/helloworld/blob/master/images/Homepage-Chinese.png)
 
 * **方法三：在微软下载中心下载**
     * [英文](https://www.microsoft.com/en-us/download/details.aspx?id=53127)
+    ![]()
     * [中文](https://www.microsoft.com/zh-cn/download/details.aspx?id=53127)
+    ![]()
