@@ -19,6 +19,6 @@
 
 * **方法三：在微软下载中心下载**
     * [英文](https://www.microsoft.com/en-us/download/details.aspx?id=53127)
-    ![]()
+    ![](https://github.com/jeffzhu1990/helloworld/blob/master/images/DownloadCenter-English.png)
     * [中文](https://www.microsoft.com/zh-cn/download/details.aspx?id=53127)
-    ![]()
+    ![](https://github.com/jeffzhu1990/helloworld/blob/master/images/DownloadCenter-Chinese.png)
