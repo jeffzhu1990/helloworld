@@ -19,6 +19,3 @@
 * **方法三：在微软下载中心下载**
     * [英文](https://www.microsoft.com/en-us/download/details.aspx?id=53127)
     * [中文](https://www.microsoft.com/zh-cn/download/details.aspx?id=53127)
-
-
-https://github.com/chenxizhang/office365dev/blob/master/images/2018-01-01-00-56-32.png
