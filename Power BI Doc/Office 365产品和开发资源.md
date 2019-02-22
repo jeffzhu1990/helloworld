@@ -35,8 +35,7 @@
 2. [Visual Studio Code](https://code.visualstudio.com/)
 3. [开发人员中心](https://developer.microsoft.com/zh-cn/office)
 4. [申请一年的开发人员版本](https://developer.microsoft.com/zh-CN/office/dev-program)
-5. [Office 365 Github 主页](https://github.com/OfficeDev)
-6. [Office 365 开发入门指南](http://product.dangdang.com/25347066.html)
+5. [Office 365 Github 主页](https://github.com/OfficeDev) 
 
 ## 技术社区
 
