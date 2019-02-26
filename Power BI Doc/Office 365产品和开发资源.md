@@ -17,8 +17,8 @@
 
 ## Power BI 首页
 
-1. [国际版](app.powerbi.com)
-2. [国内版](app.powerbi.cn)
+1. [国际版](https://app.powerbi.com)
+2. [国内版](https://app.powerbi.cn)
 
 ## 服务说明
 
